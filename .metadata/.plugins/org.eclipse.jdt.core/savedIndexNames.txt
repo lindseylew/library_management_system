@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+/Users/lindseylewis/Desktop/Java Dev/LibraryManagementSystemApp/.metadata/.plugins/org.eclipse.jdt.core
